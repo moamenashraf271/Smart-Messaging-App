@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199633001525",
+    "firebase_url": "https://mychat-c632f-default-rtdb.firebaseio.com",
+    "project_id": "mychat-c632f",
+    "storage_bucket": "mychat-c632f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199633001525:android:a0deef59da430524cc257c",
+        "android_client_info": {
+          "package_name": "com.cairo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199633001525-tqs3fthojv66ss3gu9ef6q7nobaudlva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18vI4OEhAonPdZ_48BY_6jHhmeMDdqIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199633001525-tqs3fthojv66ss3gu9ef6q7nobaudlva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
